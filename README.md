@@ -1,4 +1,4 @@
-## Oi, eu sou João Paulo Uba, estou (quase) graduando em Engenharia de Controle e Automação e sou Desenvolvedor de Software I pela Nelogica como Dev Mobile!
+## Oi, eu sou João Paulo Uba, sou Engenheiro de Controle e Automação, fui Desenvolvedor de Software I pela Nelogica como Dev Mobile iOS!
 <div align="center">
   <a href="https://github.com/joaopauloubaf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopauloubaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
